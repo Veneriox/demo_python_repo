@@ -74,3 +74,7 @@ for i in range(5):
 factor = int(input("What do you want to multiply the numbers with? Enter number: "))
 result = numArr * factor
 print(result)
+
+print(result)
+
+print("test")
